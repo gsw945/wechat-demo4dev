@@ -1,0 +1,5 @@
+cryptography
+wechatpy
+PySocks
+Flask
+furl
